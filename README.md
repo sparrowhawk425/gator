@@ -18,7 +18,7 @@ The gator application uses a config file stored in the home directory, ~/.gatorc
 ```
 ## Commands
 
-The program provides several commands that can be used to register users and add feeds to be aggregated. Several of the commands will operate in the [current_user_name] defined in the config file.
+The program provides several commands that can be used to register users and add feeds to be aggregated. Several of the commands will operate on the `current_user_name` defined in the config file.
 
 ### Register
 `gator register <username>`
